@@ -1,0 +1,106 @@
+mukey,muname,musym,cokey,compname,comppct_r,drainagecl,hzname,hzdept_r,hzdepb_r,om_r,ph1to1h2o_r,awc_r,claytotal_r,sandtotal_r,cec7_r
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362250,Storden,10,Well drained,Ap,0,20,2.5,7.7,0.18,18,51,13.7
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362250,Storden,10,Well drained,Bk,20,140,0.5,7.5,0.18,21,42,15.4
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362250,Storden,10,Well drained,C,140,200,0.25,8,0.18,15,49,10.7
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362251,Nicollet,5,Somewhat poorly drained,Ap,0,20,6,6.2,0.21,26,31,22.5
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362251,Nicollet,5,Somewhat poorly drained,A,20,38,4,6.2,0.21,26,31,22.2
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362251,Nicollet,5,Somewhat poorly drained,Bg,38,74,1.25,6.6,0.18,26,36,21.2
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362251,Nicollet,5,Somewhat poorly drained,C,74,200,0.25,8,0.18,15,49,10.7
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362252,Clarion,85,Well drained,Ap,0,23,3.5,6.2,0.21,21,45,18.2
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362252,Clarion,85,Well drained,A,23,35,2.5,6.2,0.18,21,45,18
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362252,Clarion,85,Well drained,Bw,35,84,0.75,6.6,0.18,21,45,17.1
+2765522,"Clarion loam, Bemis moraine, 2 to 6 percent slopes",L138B,27362252,Clarion,85,Well drained,C,84,200,0.25,8,0.18,15,49,10.7
+2550303,"Zenor sandy loam, 2 to 5 percent slopes",828B,27362208,Zenor,95,Somewhat excessively drained,H1,0,30,2,6.5,0.11,12.5,67.9,17.5
+2550303,"Zenor sandy loam, 2 to 5 percent slopes",828B,27362208,Zenor,95,Somewhat excessively drained,H2,30,84,0.5,7.3,0.1,16,43.8,17.5
+2550303,"Zenor sandy loam, 2 to 5 percent slopes",828B,27362208,Zenor,95,Somewhat excessively drained,H3,84,152,0.5,8.2,0.02,5,79.2,6.5
+2550303,"Zenor sandy loam, 2 to 5 percent slopes",828B,27362209,Storden,5,Well drained,H1,0,15,2.2,7.9,0.21,22.5,,17.5
+2550303,"Zenor sandy loam, 2 to 5 percent slopes",828B,27362209,Storden,5,Well drained,H2,15,152,0.25,7.9,0.18,24,,12.5
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362333,Canisteo,10,Poorly drained,Ap,0,23,7,7.5,0.18,32,30,25
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362333,Canisteo,10,Poorly drained,A,23,41,5,7.7,0.18,32,32,25.5
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362333,Canisteo,10,Poorly drained,AB,41,51,3,7.7,0.18,32,32,25
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362333,Canisteo,10,Poorly drained,Bkg,51,91,1.5,8,0.17,27,39,17.6
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362333,Canisteo,10,Poorly drained,Cg,91,200,0.25,8,0.18,21,44,15
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362334,Blue Earth,85,Very poorly drained,Lpco,0,25,17.5,7.6,0.22,25,7,26.1
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362334,Blue Earth,85,Very poorly drained,Lco,25,173,17.5,7.6,0.22,25,7,26.1
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362334,Blue Earth,85,Very poorly drained,2Cg,173,200,0.25,7.6,0.19,28,9,19.9
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362335,Lemond,1,Poorly drained,Ap,0,25,7,7.8,0.21,15,50,12.1
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362335,Lemond,1,Poorly drained,A,25,46,5,7.8,0.14,15,55,12
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362335,Lemond,1,Poorly drained,Bg,46,74,1.5,7.8,0.13,10,65,7.9
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362335,Lemond,1,Poorly drained,2Cg,74,200,0.25,8,0.06,5,90,2.8
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362336,Harps,4,Poorly drained,Ap,0,20,7,7.5,0.18,32,30,23.5
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362336,Harps,4,Poorly drained,Ak,20,41,5,8,0.18,32,32,23.2
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362336,Harps,4,Poorly drained,Bkg,41,160,1.5,8,0.18,25,39,16.9
+2550277,"Blue Earth mucky silt loam, 0 to 1 percent slopes",511,27362336,Harps,4,Poorly drained,Cg,160,200,0.25,8,0.18,21,44,14.3
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362257,Nicollet,85,Somewhat poorly drained,Ap,0,20,6,6.2,0.21,26,31,22.5
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362257,Nicollet,85,Somewhat poorly drained,A,20,38,4,6.2,0.21,26,31,22.2
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362257,Nicollet,85,Somewhat poorly drained,Bg,38,74,1.25,6.6,0.18,26,36,21.2
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362257,Nicollet,85,Somewhat poorly drained,C,74,200,0.25,8,0.18,15,49,10.7
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362258,Clarion,10,Well drained,Ap,0,23,3.5,6.2,0.21,21,45,18.2
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362258,Clarion,10,Well drained,A,23,35,2.5,6.2,0.18,21,45,18
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362258,Clarion,10,Well drained,Bw,35,84,0.75,6.6,0.18,21,45,17.1
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362258,Clarion,10,Well drained,C,84,200,0.25,8,0.18,15,49,10.7
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362259,Webster,5,Poorly drained,Ap,0,20,7,6.5,0.18,32,21,27.3
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362259,Webster,5,Poorly drained,A,20,58,5,6.9,0.18,33,25,27.7
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362259,Webster,5,Poorly drained,Bg,58,97,1.5,7.3,0.18,26,33,21.4
+2834849,"Nicollet loam, 1 to 3 percent slopes",L55,27362259,Webster,5,Poorly drained,Cg,97,200,0.25,8,0.18,15,49,10.7
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362337,Okoboji,8,Very poorly drained,Ap,0,20,9,6.8,0.22,36,11,29.5
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362337,Okoboji,8,Very poorly drained,A,20,84,6,7,0.22,36,12,29.2
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362337,Okoboji,8,Very poorly drained,Bg,84,97,1.5,7.1,0.19,36,15,27.9
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362337,Okoboji,8,Very poorly drained,Cg,97,200,0.25,7.4,0.19,31,16,22.4
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362338,Canisteo,85,Poorly drained,Ap,0,20,7,7.5,0.18,29,28,23
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362338,Canisteo,85,Poorly drained,A,20,41,5,7.7,0.18,30,30,23.9
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362338,Canisteo,85,Poorly drained,AB,41,51,3,7.7,0.18,30,30,23.5
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362338,Canisteo,85,Poorly drained,Bkg,51,91,1.5,8,0.17,27,39,17.6
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362338,Canisteo,85,Poorly drained,Cg,91,200,0.25,8,0.18,15,49,10.7
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362339,Harps,2,Poorly drained,Ap,0,20,7,7.5,0.18,28,30,20.3
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362339,Harps,2,Poorly drained,Ak,20,51,5,8,0.21,26,32,18.5
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362339,Harps,2,Poorly drained,Bkg,51,111,1.5,8,0.18,22,37,14.6
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362339,Harps,2,Poorly drained,Cg,111,200,0.25,8,0.18,15,49,9.9
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362340,Webster,5,Poorly drained,Ap,0,20,7,6.5,0.18,32,21,27.3
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362340,Webster,5,Poorly drained,A,20,58,5,6.9,0.18,33,25,27.7
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362340,Webster,5,Poorly drained,Bg,58,97,1.5,7.3,0.18,26,33,21.4
+2922007,"Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",L507,27362340,Webster,5,Poorly drained,Cg,97,200,0.25,8,0.18,15,49,10.7
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362275,Canisteo,2,Poorly drained,Ap,0,20,7,7.5,0.18,29,28,23
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362275,Canisteo,2,Poorly drained,A,20,41,5,7.7,0.18,30,30,23.9
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362275,Canisteo,2,Poorly drained,AB,41,51,3,7.7,0.18,30,30,23.5
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362275,Canisteo,2,Poorly drained,Bkg,51,91,1.5,8,0.17,27,39,17.6
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362275,Canisteo,2,Poorly drained,Cg,91,200,0.25,8,0.18,15,49,10.7
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362276,Webster,90,Poorly drained,Ap,0,20,7,6.5,0.18,32,21,27.3
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362276,Webster,90,Poorly drained,A,20,58,5,6.9,0.18,33,25,27.7
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362276,Webster,90,Poorly drained,Bg,58,97,1.5,7.3,0.18,26,33,21.4
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362276,Webster,90,Poorly drained,Cg,97,200,0.25,8,0.18,15,49,10.7
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362277,Nicollet,5,Somewhat poorly drained,Ap,0,20,6,6.2,0.21,26,31,22.5
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362277,Nicollet,5,Somewhat poorly drained,A,20,38,4,6.2,0.21,26,31,22.2
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362277,Nicollet,5,Somewhat poorly drained,Bg,38,74,1.25,6.6,0.18,26,36,21.2
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362277,Nicollet,5,Somewhat poorly drained,C,74,200,0.25,8,0.18,15,49,10.7
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362278,Okoboji,3,Very poorly drained,Ap,0,20,9,6.8,0.22,36,11,29.5
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362278,Okoboji,3,Very poorly drained,A,20,84,6,7,0.22,36,12,29.2
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362278,Okoboji,3,Very poorly drained,Bg,84,97,1.5,7.1,0.19,36,15,27.9
+2835012,"Webster clay loam, Bemis moraine, 0 to 2 percent slopes",L107,27362278,Okoboji,3,Very poorly drained,Cg,97,200,0.25,7.4,0.19,31,16,22.4
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362401,Spillville,90,Moderately well drained,Ap,0,23,3.5,6.7,0.21,24,40,20.5
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362401,Spillville,90,Moderately well drained,A,23,112,2.5,6.7,0.18,24,40,20.3
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362401,Spillville,90,Moderately well drained,C,112,200,0.25,7,0.18,20,50,15.7
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362402,Coland,10,Poorly drained,Ap,0,20,6,6.7,0.21,31,22,26.4
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362402,Coland,10,Poorly drained,"A1,A2",20,81,4.5,6.7,0.21,31,19,26.1
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362402,Coland,10,Poorly drained,AB,81,102,5.5,6.7,0.17,29,26.7,24.8
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362402,Coland,10,Poorly drained,Bg1,102,112,1.5,6.7,0.15,22,30,18.4
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362402,Coland,10,Poorly drained,Bg2,112,132,1.5,6.5,0.17,22,30,18.4
+2550272,"Spillville loam, 2 to 5 percent slopes",485B,27362402,Coland,10,Poorly drained,Cg,132,152,1,6.7,0.15,16,58,13.6
+2550305,"Zenor sandy loam, 5 to 9 percent slopes, moderately eroded",828C2,27362212,Zenor,95,Somewhat excessively drained,H1,0,30,1.5,6.5,0.11,12.5,67.9,17.5
+2550305,"Zenor sandy loam, 5 to 9 percent slopes, moderately eroded",828C2,27362212,Zenor,95,Somewhat excessively drained,H2,30,84,0.5,7.3,0.1,16,43.8,17.5
+2550305,"Zenor sandy loam, 5 to 9 percent slopes, moderately eroded",828C2,27362212,Zenor,95,Somewhat excessively drained,H3,84,152,0.5,8.2,0.02,5,79.2,6.5
+2550305,"Zenor sandy loam, 5 to 9 percent slopes, moderately eroded",828C2,27362213,Storden,5,Well drained,H1,0,15,2.2,7.9,0.21,22.5,,17.5
+2550305,"Zenor sandy loam, 5 to 9 percent slopes, moderately eroded",828C2,27362213,Storden,5,Well drained,H2,15,152,0.25,7.9,0.18,24,,12.5
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362288,Canisteo,10,Poorly drained,Ap,0,20,7,7.5,0.18,29,28,23
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362288,Canisteo,10,Poorly drained,A,20,41,5,7.7,0.18,30,30,23.9
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362288,Canisteo,10,Poorly drained,AB,41,51,3,7.7,0.18,30,30,23.5
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362288,Canisteo,10,Poorly drained,Bkg,51,91,1.5,8,0.17,27,39,17.6
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362288,Canisteo,10,Poorly drained,Cg,91,200,0.25,8,0.18,15,49,10.7
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362289,Okoboji,5,Very poorly drained,Ap,0,20,9,6.8,0.22,36,11,29.5
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362289,Okoboji,5,Very poorly drained,A,20,84,6,7,0.22,36,12,29.2
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362289,Okoboji,5,Very poorly drained,Bg,84,97,1.5,7.1,0.19,36,15,27.9
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362289,Okoboji,5,Very poorly drained,Cg,97,200,0.25,7.4,0.19,31,16,22.4
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362290,Harps,85,Poorly drained,Ap,0,20,7,7.5,0.18,28,30,20.3
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362290,Harps,85,Poorly drained,Ak,20,51,5,8,0.21,26,32,18.5
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362290,Harps,85,Poorly drained,Bkg,51,111,1.5,8,0.18,22,37,14.6
+2835146,"Harps clay loam, Bemis moraine, 0 to 2 percent slopes",L95,27362290,Harps,85,Poorly drained,Cg,111,200,0.25,8,0.18,15,49,9.9

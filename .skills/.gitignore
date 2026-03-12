@@ -1,0 +1,34 @@
+# Data outputs - never commit
+data/
+*.geojson
+*.tif
+*.nc
+*.csv
+*.png
+*.jpg
+*.pdf
+
+# Large binary files
+*.parquet
+*.shp
+*.shx
+*.dbf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Except examples
+!examples/
+!examples/**/*
