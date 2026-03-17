@@ -136,12 +136,15 @@ plt.close()
 ## Common Issues
 
 ### Labels cut off
+
 Add `plt.tight_layout()` before saving
 
 ### Overlapping x-axis labels
+
 Use `plt.xticks(rotation=45)`
 
 ### Too many points
+
 Use `alpha=0.5` or sample data
 
 ## Resources

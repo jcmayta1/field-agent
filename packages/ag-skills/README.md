@@ -8,25 +8,25 @@ This package provides a collection of skills for agricultural data analysis, inc
 
 ### Data Download Skills
 
-| Skill | Description |
-|-------|-------------|
-| `field-boundaries` | USDA NASS Crop Sequence Boundaries |
-| `ssurgo-soil` | USDA NRCS SSURGO soil data |
-| `nasa-power-weather` | NASA POWER weather data |
-| `cdl-cropland` | USDA NASS Cropland Data Layer |
-| `sentinel2-imagery` | ESA Sentinel-2 satellite imagery |
-| `landsat-imagery` | USGS Landsat satellite imagery |
+| Skill                 | Description                          |
+| --------------------- | ------------------------------------ |
+| `field-boundaries`    | USDA NASS Crop Sequence Boundaries   |
+| `ssurgo-soil`         | USDA NRCS SSURGO soil data           |
+| `nasa-power-weather`  | NASA POWER weather data              |
+| `cdl-cropland`        | USDA NASS Cropland Data Layer        |
+| `sentinel2-imagery`   | ESA Sentinel-2 satellite imagery     |
+| `landsat-imagery`     | USGS Landsat satellite imagery       |
 | `interactive-web-map` | Interactive web maps with Leaflet.js |
 
 ### Analysis Skills (EDA)
 
-| Skill | Description |
-|-------|-------------|
-| `eda-explore` | Data exploration with pandas |
-| `eda-visualize` | Data visualization with matplotlib/seaborn |
-| `eda-correlate` | Correlation analysis |
-| `eda-time-series` | Time series analysis |
-| `eda-compare` | Group comparisons and statistical tests |
+| Skill             | Description                                |
+| ----------------- | ------------------------------------------ |
+| `eda-explore`     | Data exploration with pandas               |
+| `eda-visualize`   | Data visualization with matplotlib/seaborn |
+| `eda-correlate`   | Correlation analysis                       |
+| `eda-time-series` | Time series analysis                       |
+| `eda-compare`     | Group comparisons and statistical tests    |
 
 ## Quick Start
 
@@ -89,13 +89,13 @@ uv pip install -e .
 
 ## Data Sources
 
-| Data | Provider | Format |
-|------|----------|--------|
-| Field Boundaries | USDA NASS | GeoJSON |
-| Soil | USDA NRCS | Tabular |
-| Weather | NASA POWER | NetCDF |
-| Crops | USDA NASS | GeoTIFF |
-| Imagery | ESA/USGS | GeoTIFF |
+| Data             | Provider   | Format  |
+| ---------------- | ---------- | ------- |
+| Field Boundaries | USDA NASS  | GeoJSON |
+| Soil             | USDA NRCS  | Tabular |
+| Weather          | NASA POWER | NetCDF  |
+| Crops            | USDA NASS  | GeoTIFF |
+| Imagery          | ESA/USGS   | GeoTIFF |
 
 All data is **public domain** or **free for research use**.
 

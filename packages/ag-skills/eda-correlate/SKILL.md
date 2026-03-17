@@ -126,11 +126,11 @@ print(f"Pearson: {pearson:.3f}, Spearman: {spearman:.3f}, Kendall: {kendall:.3f}
 
 ## Which Method?
 
-| Method       | Use When                           |
-| ------------ | ---------------------------------- |
-| **Pearson**  | Linear relationships, normal dist  |
-| **Spearman** | Monotonic, ranked data, outliers   |
-| **Kendall**  | Small samples, many ties           |
+| Method       | Use When                          |
+| ------------ | --------------------------------- |
+| **Pearson**  | Linear relationships, normal dist |
+| **Spearman** | Monotonic, ranked data, outliers  |
+| **Kendall**  | Small samples, many ties          |
 
 ## Resources
 

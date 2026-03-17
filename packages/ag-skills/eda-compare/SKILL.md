@@ -121,16 +121,18 @@ plt.close()
 | **2 groups**  | t-test         | Exactly 2 groups, normally distributed |
 | **2 groups**  | Mann-Whitney U | Non-normal, ordinal data               |
 | **3+ groups** | ANOVA          | Multiple groups, normal distribution   |
-| **3+ groups** | Kruskal-Wallis | Multiple groups, non-normal           |
+| **3+ groups** | Kruskal-Wallis | Multiple groups, non-normal            |
 
 ## Assumptions
 
 **T-test/ANOVA:**
+
 - Data is normally distributed
 - Equal variances (or use Welch's correction)
 - Independent observations
 
 **Mann-Whitney U:**
+
 - Ordinal or continuous data
 - Non-normal distributions
 - Independent groups

@@ -124,6 +124,7 @@ with open('dashboard.html', 'w') as f:
 ## Styling Color Palettes
 
 ### Crop Types
+
 ```javascript
 const cropColors = {
   Corn: '#2E7D32',
@@ -135,6 +136,7 @@ const cropColors = {
 ```
 
 ### Soil pH (Acid → Neutral → Alkaline)
+
 ```javascript
 function getPHColor(ph) {
   if (ph < 6.0) return '#1565C0';
@@ -145,6 +147,7 @@ function getPHColor(ph) {
 ```
 
 ### NDVI
+
 ```javascript
 function getNDVIColor(ndvi) {
   if (ndvi < 0.2) return '#8B4513';

@@ -16,16 +16,15 @@ Requirements:
 - 30m headland buffer
 """
 
+import warnings
+
+import contextily as ctx
 import geopandas as gpd
-import pandas as pd
-import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import matplotlib.patches as mpatches
-import contextily as ctx
+import matplotlib.pyplot as plt
 import numpy as np
-from shapely.geometry import box, Polygon
-from shapely.ops import unary_union
-import warnings
+from shapely.geometry import Polygon
 
 warnings.filterwarnings("ignore")
 
@@ -93,7 +92,7 @@ def get_extent(gdf):
 
 def swap_coordinates(geom):
     """Swap (lat, lon) to (lon, lat) for a polygon or multipolygon."""
-    from shapely.geometry import Polygon, MultiPolygon, LineString, Point
+    from shapely.geometry import MultiPolygon
 
     if geom.is_empty:
         return geom
@@ -432,7 +431,7 @@ def create_3x3_soil_maps():
         framealpha=0.9,
     )
 
-    ax.set_title(f"Headland Buffer (30m) with OM", fontsize=10, fontweight="bold")
+    ax.set_title("Headland Buffer (30m) with OM", fontsize=10, fontweight="bold")
     ax.set_axis_off()
 
     ax = axes[2, 2]
@@ -462,7 +461,7 @@ if __name__ == "__main__":
 
     print("\nSummary:")
     print(f"  Soil map units: {len(soil_gdf)}")
-    print(f"  Properties mapped: OM, pH, AWC, Clay, Sand, CEC")
-    print(f"  Classification: Natural Breaks (Jenks) with 3 classes")
+    print("  Properties mapped: OM, pH, AWC, Clay, Sand, CEC")
+    print("  Classification: Natural Breaks (Jenks) with 3 classes")
     print(f"  Polygon alpha: {POLYGON_ALPHA}")
     print(f"  Polygon edge color: {POLYGON_EDGE_COLOR}")

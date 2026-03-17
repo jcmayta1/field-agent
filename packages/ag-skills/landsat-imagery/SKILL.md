@@ -211,11 +211,11 @@ def zonal_stats(raster_path: str, fields_path: str) -> pd.DataFrame:
 
 ## Comparison with Sentinel-2
 
-| Feature    | Landsat 8/9              | Sentinel-2                 |
-| ---------- | ------------------------ | -------------------------- |
-| Resolution | 30 m                     | 10-60 m                    |
-| Revisit    | 16 days (8 combined)     | 5 days                     |
-| Archive    | 1984-present             | 2015-present               |
+| Feature    | Landsat 8/9          | Sentinel-2   |
+| ---------- | -------------------- | ------------ |
+| Resolution | 30 m                 | 10-60 m      |
+| Revisit    | 16 days (8 combined) | 5 days       |
+| Archive    | 1984-present         | 2015-present |
 
 ## Environment Variables
 
