@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "field_boundary",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "field_id": "field_001", "area_type": "target_field" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -93.776263, 41.92163 ], [ -93.776211, 41.914502 ], [ -93.771215, 41.914425 ], [ -93.77132, 41.921627 ], [ -93.776263, 41.92163 ] ] ] } }
+]
+}

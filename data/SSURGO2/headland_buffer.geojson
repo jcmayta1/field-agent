@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "name": "headland_buffer",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "buffer_meters": 30,
+        "headland_acres": 17.02,
+        "inner_crop_acres": 63.99,
+        "buffer_type": "inward"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -93.77589924337413,
+              41.92135959642648
+            ],
+            [
+              -93.7716778632926,
+              41.92135703412258
+            ],
+            [
+              -93.77158078390934,
+              41.91470089306925
+            ],
+            [
+              -93.77585118436458,
+              41.91476670934659
+            ],
+            [
+              -93.77589924337413,
+              41.92135959642648
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

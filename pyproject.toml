@@ -2,7 +2,7 @@
 name = "agent-project"
 version = "0.1.0"
 description = "AGENTS.md-first agentic coding starter template with local/GitHub CI and optional deep specialist review"
-requires-python = ">=3.10,<=3.13"
+requires-python = ">=3.8,<=3.13"
 readme = "README.md"
 license = {text = "Apache-2.0"}
 
@@ -26,7 +26,8 @@ mem0 = [
     "mem0ai>=0.1.0",
 ]
 ag-skills = [
-    "geopandas>=0.14.0",
+    "geopandas>=0.13.0,<0.14.0",
+    "fiona>=1.8.0,<1.10.0",
     "pandas>=2.0.0",
     "matplotlib>=3.7.0",
     "seaborn>=0.12.0",
@@ -37,6 +38,8 @@ ag-skills = [
     "rasterstats>=0.19.0",
     "shapely>=2.0.0",
     "pyproj>=3.4.0",
+    "contextily>=1.6.0",
+    "xyzservices>=2024.6.0",
 ]
 ag-skills-remote = [
     "sentinelsat>=1.2.0",
